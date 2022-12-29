@@ -7,7 +7,14 @@ Over 4 years of experience in all stages of the web development lifecycle, from 
 
 A problem-solver and results-oriented team member with a passion for quality and a great ability to communicate with customers in a friendly and highly professional manner.💽🖱️
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: JS / HTML / CSS / BOOTSTRAP / WORDPRESS / VUE JS.
+
+Preprocessors: SCSS, SASS.
+
+Tools: GULP / GIT / NPM / DEBUGGING TOOLS
+
+Graphic redactors: FIGMA / PHOTOSHOP / INDESIGN.
+
 
 - 🌱 I’m currently learning VUE JS
 - 📫 How to reach me: okyrylenko2022@gmail.com
