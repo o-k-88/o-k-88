@@ -1,5 +1,3 @@
-![logo](https://github.com/o-k-88/o-k-88/blob/e0328f93914b4bbfef32c7cbbb29fc287600fcea/assets/csm-centre-finance-technology-regulation-883x432-76236be067.jpg)
-
 <h1 style='border-bottom: none'>Hey, I'm Oleh Kyrylenko👋</h1>
 
 #### I work as a front-end developer with UI/UX design skills (front-end designer). I'm based in Pittsburgh,PA
