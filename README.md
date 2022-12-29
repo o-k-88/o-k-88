@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <h1 style='border-bottom: none'>Hey, I'm Oleh Kyrylenko👋</h1>
+=======
+<h1 style="border-bottom: none">Hey, I'm Oleh Kyrylenko👋</h1>
+>>>>>>> 08f80583e2c62d26820626e984398f23df73f7a6
 
 #### I work as a front-end developer with UI/UX design skills (front-end designer). I'm based in Pittsburgh,PA
 ---
