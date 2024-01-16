@@ -16,7 +16,7 @@ Tools: GULP / GIT / NPM / DEBUGGING TOOLS
 Graphic redactors: FIGMA / PHOTOSHOP / INDESIGN.
 
 
-- 🌱 I’m currently learning VUE JS
+- 🌱 I’m currently learning React.js
 - 📫 How to reach me: okyrylenko2022@gmail.com
 
 
