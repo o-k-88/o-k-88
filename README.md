@@ -6,11 +6,11 @@ As a Lead Front-End Web Developer, I specialize in building scalable, responsive
 I lead cross-functional teams, define front-end architecture, and ensure best practices in design systems, code quality, and accessibility. 
 With a strong eye for UX/UI and a passion for clean, maintainable code, I thrive on delivering seamless digital experiences.
 
-• Front-end architecture & performance optimization
-• Component-based design & reusable UI systems
-• Team leadership, mentoring, and code reviews
-• Collaboration with designers, back-end engineers, and product teams
-• Advocating for modern front-end standards and accessibility (WCAG)
+- Front-end architecture & performance optimization
+- Component-based design & reusable UI systems
+- Team leadership, mentoring, and code reviews
+- Collaboration with designers, back-end engineers, and product teams
+- Advocating for modern front-end standards and accessibility (WCAG)
 
 Skills:   HTML / CSS / JS.
 
