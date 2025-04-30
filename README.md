@@ -1,22 +1,29 @@
 
 ### Hi there 👋, my name is Oleh
-#### Design and Development
+#### Lead front end web development.
 
+As a Lead Front-End Web Developer, I specialize in building scalable, responsive, and high-performance user interfaces using modern JavaScript frameworks like React. 
+I lead cross-functional teams, define front-end architecture, and ensure best practices in design systems, code quality, and accessibility. 
+With a strong eye for UX/UI and a passion for clean, maintainable code, I thrive on delivering seamless digital experiences.
 
-Over 4 years of experience in all stages of the web development lifecycle, from concept and development through quality assurance (QA) and tuning. Enjoy learning new technologies quickly and implementing them. Understanding of SEO and optimization to maximize site performance.
+• Front-end architecture & performance optimization
+• Component-based design & reusable UI systems
+• Team leadership, mentoring, and code reviews
+• Collaboration with designers, back-end engineers, and product teams
+• Advocating for modern front-end standards and accessibility (WCAG)
 
-A problem-solver and results-oriented team member with a passion for quality and a great ability to communicate with customers in a friendly and highly professional manner.💽🖱️
+Skills:   HTML / CSS / JS.
 
-Skills: JS / HTML / CSS / BOOTSTRAP / WORDPRESS / VUE JS.
+Frameworks and Libraries: Bootstrap / Tailwind / MUI / React.js / Node.js.
 
 Preprocessors: SCSS, SASS.
 
-Tools: GULP / GIT / NPM / DEBUGGING TOOLS
+Tools: vite / gulp / git / npm / debugging tools.
 
-Graphic redactors: FIGMA / PHOTOSHOP / INDESIGN.
+Graphic redactors: Figma / Photoshop / Indesign.
 
 
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Typescript
 - 📫 How to reach me: okyrylenko2022@gmail.com
 
 
